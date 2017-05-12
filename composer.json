@@ -1,0 +1,22 @@
+{
+  "name": "colibriphp/http-request",
+  "description": "Http Request Library",
+  "keywords": ["http-request","http"],
+  "authors": [
+    {
+      "name": "Ivan Hontarenko",
+      "email": "stewie.dev@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php": ">=5.5",
+    "colibriphp/uri": "~0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Colibri\\HttpRequest\\": "src/"
+    }
+  }
+}
