@@ -1,5 +1,5 @@
 {
-  "name": "colibriphp/http-request",
+  "name": "colibrilabs/http-request",
   "description": "Http Request Library",
   "keywords": ["http-request","http"],
   "authors": [
